@@ -21,4 +21,3 @@ for c in list(results):
 		code = code.replace(c,'')
 
 print code
-
